@@ -18,7 +18,7 @@
   "homepage": "https://www.google.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/unknown7987/petshop-releases"
+    "url": "https://github.com/unknown7987/spacepet-releases"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
