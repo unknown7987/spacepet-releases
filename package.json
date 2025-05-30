@@ -1,6 +1,6 @@
 {
   "name": "pet-shop-management",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Oi",
   "main": ".webpack/main",
   "scripts": {
